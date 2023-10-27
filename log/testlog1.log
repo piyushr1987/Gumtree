@@ -110,3 +110,50 @@
 2023-10-27 16:27:09,572 [main] INFO gumtree - enter email
 2023-10-27 16:27:09,678 [main] INFO gumtree - enter password
 2023-10-27 16:27:09,767 [main] INFO gumtree - click on register
+2023-10-27 17:03:57,038 [main] INFO gumtree - open the chrome browser
+2023-10-27 17:04:03,665 [main] INFO gumtree - click on accept button on pop up
+2023-10-27 17:04:03,871 [main] INFO gumtree - click on login
+2023-10-27 17:04:19,149 [main] INFO gumtree - sucessfully navigate to login page
+2023-10-27 17:04:19,161 [main] INFO gumtree - enter email
+2023-10-27 17:04:39,334 [main] INFO gumtree - enter password
+2023-10-27 17:04:52,422 [main] INFO gumtree - click on login button
+2023-10-27 17:04:52,451 [main] INFO gumtree - sucessfully login as valid user
+2023-10-27 17:05:00,580 [main] INFO gumtree - open the chrome browser
+2023-10-27 17:05:06,647 [main] INFO gumtree - click on accept button on pop up
+2023-10-27 17:05:06,848 [main] INFO gumtree - click on login
+2023-10-27 17:05:28,303 [main] INFO gumtree - sucessfully navigate to login page
+2023-10-27 17:05:28,307 [main] INFO gumtree - enter email
+2023-10-27 17:05:48,508 [main] INFO gumtree - enter password
+2023-10-27 17:05:58,526 [main] INFO gumtree - click on login button
+2023-10-27 17:05:58,554 [main] INFO gumtree - sucessfully login as valid user
+2023-10-27 17:06:07,433 [main] INFO gumtree - open the chrome browser
+2023-10-27 17:06:14,076 [main] INFO gumtree - click on accept button on pop up
+2023-10-27 17:06:14,306 [main] INFO gumtree - click on login
+2023-10-27 17:06:28,688 [main] INFO gumtree - sucessfully navigate to login page
+2023-10-27 17:06:28,693 [main] INFO gumtree - enter email
+2023-10-27 17:06:48,847 [main] INFO gumtree - enter password
+2023-10-27 17:07:09,087 [main] INFO gumtree - click on login button
+2023-10-27 17:07:29,337 [main] INFO gumtree - sucessfully login as valid user
+2023-10-27 17:08:10,907 [main] INFO gumtree - open the chrome browser
+2023-10-27 17:08:15,755 [main] INFO gumtree - click on accept button on pop up
+2023-10-27 17:08:17,277 [main] INFO gumtree - click on login
+2023-10-27 17:08:32,057 [main] INFO gumtree - enter email
+2023-10-27 17:08:38,341 [main] INFO gumtree - enter password
+2023-10-27 17:08:38,412 [main] INFO gumtree - click on login button
+2023-10-27 17:08:38,434 [main] INFO gumtree - sucessfully login as valid user
+2023-10-27 17:08:45,481 [main] INFO gumtree - open the chrome browser
+2023-10-27 17:08:51,769 [main] INFO gumtree - click on accept button on pop up
+2023-10-27 17:08:51,986 [main] INFO gumtree - click on login
+2023-10-27 17:09:06,283 [main] INFO gumtree - sucessfully navigate to login page
+2023-10-27 17:09:06,296 [main] INFO gumtree - enter email
+2023-10-27 17:09:26,471 [main] INFO gumtree - enter password
+2023-10-27 17:09:41,866 [main] INFO gumtree - click on login button
+2023-10-27 17:09:41,880 [main] INFO gumtree - sucessfully login as valid user
+2023-10-27 17:11:47,783 [main] INFO gumtree - open the chrome browser
+2023-10-27 17:11:54,617 [main] INFO gumtree - click on accept button on pop up
+2023-10-27 17:11:54,783 [main] INFO gumtree - click on login
+2023-10-27 17:12:11,365 [main] INFO gumtree - sucessfully navigate to login page
+2023-10-27 17:12:11,373 [main] INFO gumtree - enter email
+2023-10-27 17:12:31,596 [main] INFO gumtree - enter password
+2023-10-27 17:12:51,811 [main] INFO gumtree - click on login button
+2023-10-27 17:13:12,051 [main] INFO gumtree - sucessfully login as valid user
