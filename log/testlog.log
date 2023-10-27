@@ -77,3 +77,36 @@
 2023-10-26 18:19:18,671 - gumtree -INFO - click on accept button on pop up
 2023-10-26 18:19:18,831 - gumtree -INFO - click on about us link
 2023-10-26 18:19:24,906 - gumtree -INFO - sucessfully navigate to about us page
+2023-10-27 16:18:02,746 - gumtree -INFO - open the chrome browser
+2023-10-27 16:18:40,804 - gumtree -INFO - click on register
+2023-10-27 16:18:53,241 - gumtree -INFO - enter first name
+2023-10-27 16:19:13,410 - gumtree -INFO - enter last name
+2023-10-27 16:19:15,208 - gumtree -INFO - enter email
+2023-10-27 16:19:15,232 - gumtree -INFO - enter password
+2023-10-27 16:19:15,254 - gumtree -INFO - click on register
+2023-10-27 16:23:04,637 - gumtree -INFO - open the chrome browser
+2023-10-27 16:23:34,440 - gumtree -INFO - click on accept button on pop up
+2023-10-27 16:23:34,478 - gumtree -INFO - click on register
+2023-10-27 16:23:34,512 - gumtree -INFO - enter first name
+2023-10-27 16:23:34,533 - gumtree -INFO - enter last name
+2023-10-27 16:23:34,549 - gumtree -INFO - enter email
+2023-10-27 16:23:34,566 - gumtree -INFO - enter password
+2023-10-27 16:23:34,594 - gumtree -INFO - click on register
+2023-10-27 16:23:40,768 - gumtree -INFO - open the chrome browser
+2023-10-27 16:23:47,600 - gumtree -INFO - click on accept button on pop up
+2023-10-27 16:23:47,816 - gumtree -INFO - click on register
+2023-10-27 16:24:27,531 - gumtree -INFO - sucessfully navigate to create account page
+2023-10-27 16:24:27,538 - gumtree -INFO - enter first name
+2023-10-27 16:24:27,684 - gumtree -INFO - enter last name
+2023-10-27 16:24:27,770 - gumtree -INFO - enter email
+2023-10-27 16:24:27,871 - gumtree -INFO - enter password
+2023-10-27 16:24:27,974 - gumtree -INFO - click on register
+2023-10-27 16:26:22,270 - gumtree -INFO - open the chrome browser
+2023-10-27 16:26:28,798 - gumtree -INFO - click on accept button on pop up
+2023-10-27 16:26:29,029 - gumtree -INFO - click on register
+2023-10-27 16:27:09,325 - gumtree -INFO - sucessfully navigate to create account page
+2023-10-27 16:27:09,333 - gumtree -INFO - enter first name
+2023-10-27 16:27:09,461 - gumtree -INFO - enter last name
+2023-10-27 16:27:09,572 - gumtree -INFO - enter email
+2023-10-27 16:27:09,678 - gumtree -INFO - enter password
+2023-10-27 16:27:09,767 - gumtree -INFO - click on register
