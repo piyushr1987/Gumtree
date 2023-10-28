@@ -1,49 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="0" total="10" passed="8" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-27T17:11:47 IST" name="Default suite" finished-at="2023-10-27T17:13:32 IST" duration-ms="104752">
+  <suite started-at="2023-10-28T18:05:30 IST" name="Default suite" finished-at="2023-10-28T18:07:41 IST" duration-ms="130955">
     <groups>
     </groups>
-    <test started-at="2023-10-27T17:11:47 IST" name="Default test" finished-at="2023-10-27T17:13:32 IST" duration-ms="104752">
-      <class name="com.gumtree.tests.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gumtree.tests.LoginTest@75d3a5e0]" started-at="2023-10-27T17:11:47 IST" name="setUp" finished-at="2023-10-27T17:11:54 IST" duration-ms="6955" status="PASS">
+    <test started-at="2023-10-28T18:05:30 IST" name="Default test" finished-at="2023-10-28T18:07:41 IST" duration-ms="130955">
+      <class name="com.gumtree.tests.SearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:05:30 IST" name="setUp" finished-at="2023-10-28T18:05:37 IST" duration-ms="6751" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testAcceptButton()[pri:1, instance:com.gumtree.tests.LoginTest@75d3a5e0]" started-at="2023-10-27T17:11:54 IST" name="testAcceptButton" finished-at="2023-10-27T17:11:54 IST" duration-ms="168" status="PASS">
+        <test-method signature="testSearchBox()[pri:1, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:05:37 IST" name="testSearchBox" finished-at="2023-10-28T18:05:37 IST" duration-ms="183" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testAcceptButton -->
-        <test-method signature="testLogin()[pri:2, instance:com.gumtree.tests.LoginTest@75d3a5e0]" started-at="2023-10-27T17:11:54 IST" name="testLogin" finished-at="2023-10-27T17:12:11 IST" duration-ms="16563" status="PASS">
+        </test-method> <!-- testSearchBox -->
+        <test-method signature="testSearchBoxHeader()[pri:2, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:05:37 IST" name="testSearchBoxHeader" finished-at="2023-10-28T18:05:37 IST" duration-ms="114" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method signature="testLoginPage()[pri:3, instance:com.gumtree.tests.LoginTest@75d3a5e0]" started-at="2023-10-27T17:12:11 IST" name="testLoginPage" finished-at="2023-10-27T17:12:11 IST" duration-ms="19" status="PASS">
+        </test-method> <!-- testSearchBoxHeader -->
+        <test-method signature="testSearchButton()[pri:3, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:05:37 IST" name="testSearchButton" finished-at="2023-10-28T18:06:49 IST" duration-ms="71781" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLoginPage -->
-        <test-method signature="testEmail()[pri:4, instance:com.gumtree.tests.LoginTest@75d3a5e0]" started-at="2023-10-27T17:12:11 IST" name="testEmail" finished-at="2023-10-27T17:12:31 IST" duration-ms="20215" status="PASS">
+        </test-method> <!-- testSearchButton -->
+        <test-method signature="testSearchPage()[pri:4, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:06:49 IST" name="testSearchPage" finished-at="2023-10-28T18:06:49 IST" duration-ms="35" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testEmail -->
-        <test-method signature="testPassword()[pri:5, instance:com.gumtree.tests.LoginTest@75d3a5e0]" started-at="2023-10-27T17:12:31 IST" name="testPassword" finished-at="2023-10-27T17:12:51 IST" duration-ms="20213" status="PASS">
+        </test-method> <!-- testSearchPage -->
+        <test-method signature="testJaguar()[pri:5, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:06:49 IST" name="testJaguar" finished-at="2023-10-28T18:07:13 IST" duration-ms="24367" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPassword -->
-        <test-method signature="testLoginButton()[pri:6, instance:com.gumtree.tests.LoginTest@75d3a5e0]" started-at="2023-10-27T17:12:51 IST" name="testLoginButton" finished-at="2023-10-27T17:13:12 IST" duration-ms="20232" status="PASS">
+        </test-method> <!-- testJaguar -->
+        <test-method signature="testJaguarSelection()[pri:6, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:07:13 IST" name="testJaguarSelection" finished-at="2023-10-28T18:07:13 IST" duration-ms="286" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.gumtree.tests.SearchTest.testJaguarSelection(SearchTest.java:88)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLoginButton -->
-        <test-method signature="testValidUser()[pri:7, instance:com.gumtree.tests.LoginTest@75d3a5e0]" started-at="2023-10-27T17:13:12 IST" name="testValidUser" finished-at="2023-10-27T17:13:32 IST" duration-ms="20167" status="PASS">
+        </test-method> <!-- testJaguarSelection -->
+        <test-method signature="testYear()[pri:7, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:07:13 IST" name="testYear" finished-at="2023-10-28T18:07:16 IST" duration-ms="2115" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testValidUser -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gumtree.tests.LoginTest@75d3a5e0]" started-at="2023-10-27T17:13:32 IST" name="tearDown" finished-at="2023-10-27T17:13:32 IST" duration-ms="150" status="PASS">
+        </test-method> <!-- testYear -->
+        <test-method signature="testYearSelection()[pri:8, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:07:16 IST" name="testYearSelection" finished-at="2023-10-28T18:07:16 IST" duration-ms="221" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.gumtree.tests.SearchTest.testYearSelection(SearchTest.java:110)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testYearSelection -->
+        <test-method signature="testBMW()[pri:9, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:07:16 IST" name="testBMW" finished-at="2023-10-28T18:07:41 IST" duration-ms="24757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBMW -->
+        <test-method signature="testBMWPage()[pri:10, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:07:41 IST" name="testBMWPage" finished-at="2023-10-28T18:07:41 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBMWPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gumtree.tests.SearchTest@663c9e7a]" started-at="2023-10-28T18:07:41 IST" name="tearDown" finished-at="2023-10-28T18:07:41 IST" duration-ms="254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.gumtree.tests.LoginTest -->
+      </class> <!-- com.gumtree.tests.SearchTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

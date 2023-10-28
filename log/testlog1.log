@@ -157,3 +157,35 @@
 2023-10-27 17:12:31,596 [main] INFO gumtree - enter password
 2023-10-27 17:12:51,811 [main] INFO gumtree - click on login button
 2023-10-27 17:13:12,051 [main] INFO gumtree - sucessfully login as valid user
+2023-10-27 18:32:49,241 [main] INFO gumtree - open the chrome browser
+2023-10-27 18:33:23,176 [main] INFO gumtree - click on accept button on pop up
+2023-10-27 18:33:23,370 [main] INFO gumtree - click on login
+2023-10-27 18:33:40,309 [main] INFO gumtree - sucessfully navigate to login page
+2023-10-27 18:33:40,315 [main] INFO gumtree - enter email
+2023-10-27 18:34:00,421 [main] INFO gumtree - enter password
+2023-10-27 18:34:20,619 [main] INFO gumtree - click on login button
+2023-10-27 18:34:40,784 [main] INFO gumtree - sucessfully login as valid user
+2023-10-28 18:02:12,198 [main] INFO gumtree - open the chrome browser
+2023-10-28 18:02:19,811 [main] INFO gumtree - enter car name in search box
+2023-10-28 18:02:20,032 [main] INFO gumtree - enter location in search box header
+2023-10-28 18:02:20,105 [main] INFO gumtree - click on search button
+2023-10-28 18:02:51,857 [main] INFO gumtree - sucessfully navigate to search page
+2023-10-28 18:02:51,865 [main] INFO gumtree - click on jaguar
+2023-10-28 18:03:12,598 [main] INFO gumtree - click on year
+2023-10-28 18:03:33,316 [main] INFO gumtree - click on BMW
+2023-10-28 18:04:06,656 [main] INFO gumtree - open the chrome browser
+2023-10-28 18:04:14,912 [main] INFO gumtree - enter car name in search box
+2023-10-28 18:04:15,073 [main] INFO gumtree - enter location in search box header
+2023-10-28 18:04:15,246 [main] INFO gumtree - click on search button
+2023-10-28 18:04:38,666 [main] INFO gumtree - click on jaguar
+2023-10-28 18:04:38,764 [main] INFO gumtree - click on year
+2023-10-28 18:04:38,856 [main] INFO gumtree - click on BMW
+2023-10-28 18:05:30,487 [main] INFO gumtree - open the chrome browser
+2023-10-28 18:05:37,165 [main] INFO gumtree - enter car name in search box
+2023-10-28 18:05:37,352 [main] INFO gumtree - enter location in search box header
+2023-10-28 18:05:37,462 [main] INFO gumtree - click on search button
+2023-10-28 18:06:49,276 [main] INFO gumtree - sucessfully navigate to search page
+2023-10-28 18:06:49,282 [main] INFO gumtree - click on jaguar
+2023-10-28 18:07:13,938 [main] INFO gumtree - click on year
+2023-10-28 18:07:16,284 [main] INFO gumtree - click on BMW
+2023-10-28 18:07:41,059 [main] INFO gumtree - sucessfully navigate to BMW car page

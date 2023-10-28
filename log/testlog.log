@@ -157,3 +157,35 @@
 2023-10-27 17:12:31,596 - gumtree -INFO - enter password
 2023-10-27 17:12:51,811 - gumtree -INFO - click on login button
 2023-10-27 17:13:12,051 - gumtree -INFO - sucessfully login as valid user
+2023-10-27 18:32:49,241 - gumtree -INFO - open the chrome browser
+2023-10-27 18:33:23,176 - gumtree -INFO - click on accept button on pop up
+2023-10-27 18:33:23,370 - gumtree -INFO - click on login
+2023-10-27 18:33:40,309 - gumtree -INFO - sucessfully navigate to login page
+2023-10-27 18:33:40,315 - gumtree -INFO - enter email
+2023-10-27 18:34:00,421 - gumtree -INFO - enter password
+2023-10-27 18:34:20,619 - gumtree -INFO - click on login button
+2023-10-27 18:34:40,784 - gumtree -INFO - sucessfully login as valid user
+2023-10-28 18:02:12,198 - gumtree -INFO - open the chrome browser
+2023-10-28 18:02:19,811 - gumtree -INFO - enter car name in search box
+2023-10-28 18:02:20,032 - gumtree -INFO - enter location in search box header
+2023-10-28 18:02:20,105 - gumtree -INFO - click on search button
+2023-10-28 18:02:51,857 - gumtree -INFO - sucessfully navigate to search page
+2023-10-28 18:02:51,865 - gumtree -INFO - click on jaguar
+2023-10-28 18:03:12,598 - gumtree -INFO - click on year
+2023-10-28 18:03:33,316 - gumtree -INFO - click on BMW
+2023-10-28 18:04:06,656 - gumtree -INFO - open the chrome browser
+2023-10-28 18:04:14,912 - gumtree -INFO - enter car name in search box
+2023-10-28 18:04:15,073 - gumtree -INFO - enter location in search box header
+2023-10-28 18:04:15,246 - gumtree -INFO - click on search button
+2023-10-28 18:04:38,666 - gumtree -INFO - click on jaguar
+2023-10-28 18:04:38,764 - gumtree -INFO - click on year
+2023-10-28 18:04:38,856 - gumtree -INFO - click on BMW
+2023-10-28 18:05:30,487 - gumtree -INFO - open the chrome browser
+2023-10-28 18:05:37,165 - gumtree -INFO - enter car name in search box
+2023-10-28 18:05:37,352 - gumtree -INFO - enter location in search box header
+2023-10-28 18:05:37,462 - gumtree -INFO - click on search button
+2023-10-28 18:06:49,276 - gumtree -INFO - sucessfully navigate to search page
+2023-10-28 18:06:49,282 - gumtree -INFO - click on jaguar
+2023-10-28 18:07:13,938 - gumtree -INFO - click on year
+2023-10-28 18:07:16,284 - gumtree -INFO - click on BMW
+2023-10-28 18:07:41,059 - gumtree -INFO - sucessfully navigate to BMW car page
