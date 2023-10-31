@@ -189,3 +189,13 @@
 2023-10-28 18:07:13,938 [main] INFO gumtree - click on year
 2023-10-28 18:07:16,284 [main] INFO gumtree - click on BMW
 2023-10-28 18:07:41,059 [main] INFO gumtree - sucessfully navigate to BMW car page
+2023-10-31 17:53:38,450 [main] INFO gumtree - open the chrome browser
+2023-10-31 17:54:11,345 [main] INFO gumtree - go to car and click on vans
+2023-10-31 17:55:03,530 [main] INFO gumtree - sucessfully navigate to van page
+2023-10-31 17:55:03,542 [main] INFO gumtree - select highest to low price menu from drop down
+2023-10-31 17:55:07,031 [main] INFO gumtree - click on ford van
+2023-10-31 17:55:27,276 [main] INFO gumtree - Send Message Button is displayed on page
+2023-10-31 17:55:27,289 [main] INFO gumtree - enter deposit
+2023-10-31 17:55:47,501 [main] INFO gumtree - select repayment months
+2023-10-31 17:56:07,705 [main] INFO gumtree - click on good credit score
+2023-10-31 17:56:27,907 [main] INFO gumtree - click on apply now
