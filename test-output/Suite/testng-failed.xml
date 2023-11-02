@@ -7,15 +7,13 @@
   <test thread-count="5" name="gumtree Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.gumtree.tests.LoginTest">
+      <class name="com.gumtree.tests.ForSaleTest">
         <methods>
-          <include name="testValidUser"/>
+          <include name="testWindows8OperatingSystemElement"/>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="testPassword"/>
-          <include name="testLoginButton"/>
         </methods>
-      </class> <!-- com.gumtree.tests.LoginTest -->
+      </class> <!-- com.gumtree.tests.ForSaleTest -->
     </classes>
   </test> <!-- gumtree Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

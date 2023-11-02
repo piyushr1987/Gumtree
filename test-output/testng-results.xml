@@ -1,40 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+<testng-results ignored="0" total="15" passed="14" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-31T17:53:38 IST" name="Default suite" finished-at="2023-10-31T17:56:48 IST" duration-ms="190050">
+  <suite started-at="2023-11-02T16:39:22 IST" name="Suite" finished-at="2023-11-02T16:42:06 IST" duration-ms="163807">
     <groups>
     </groups>
-    <test started-at="2023-10-31T17:53:38 IST" name="Default test" finished-at="2023-10-31T17:56:48 IST" duration-ms="190050">
-      <class name="com.gumtree.tests.CarsTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:53:38 IST" name="setUp" finished-at="2023-10-31T17:54:11 IST" duration-ms="33002" status="PASS">
+    <test started-at="2023-11-02T16:39:22 IST" name="gumtree Test" finished-at="2023-11-02T16:42:06 IST" duration-ms="163807">
+      <class name="com.gumtree.tests.ForSaleTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:39:22 IST" name="setUp" finished-at="2023-11-02T16:39:27 IST" duration-ms="5119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testCar()[pri:1, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:54:11 IST" name="testCar" finished-at="2023-10-31T17:55:03 IST" duration-ms="52144" status="PASS">
+        <test-method signature="testForSale()[pri:1, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:39:27 IST" name="testForSale" finished-at="2023-11-02T16:40:15 IST" duration-ms="47628" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCar -->
-        <test-method signature="testVanPage()[pri:2, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:55:03 IST" name="testVanPage" finished-at="2023-10-31T17:55:03 IST" duration-ms="33" status="PASS">
+        </test-method> <!-- testForSale -->
+        <test-method signature="testComputersAndSoftwaresPage()[pri:2, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:40:15 IST" name="testComputersAndSoftwaresPage" finished-at="2023-11-02T16:40:15 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testVanPage -->
-        <test-method signature="testMostRecent()[pri:3, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:55:03 IST" name="testMostRecent" finished-at="2023-10-31T17:55:06 IST" duration-ms="3225" status="PASS">
+        </test-method> <!-- testComputersAndSoftwaresPage -->
+        <test-method signature="testSoftware()[pri:3, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:40:15 IST" name="testSoftware" finished-at="2023-11-02T16:40:39 IST" duration-ms="24537" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMostRecent -->
-        <test-method signature="testHighestPriceFirstPagePage()[pri:4, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:55:06 IST" name="testHighestPriceFirstPagePage" finished-at="2023-10-31T17:55:07 IST" duration-ms="255" status="FAIL">
-          <exception class="java.lang.AssertionError">
+        </test-method> <!-- testSoftware -->
+        <test-method signature="testSoftwarePage()[pri:4, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:40:39 IST" name="testSoftwarePage" finished-at="2023-11-02T16:40:39 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSoftwarePage -->
+        <test-method signature="testOperatingSystem()[pri:5, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:40:39 IST" name="testOperatingSystem" finished-at="2023-11-02T16:40:42 IST" duration-ms="2738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOperatingSystem -->
+        <test-method signature="testOperatingSystemPage()[pri:6, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:40:42 IST" name="testOperatingSystemPage" finished-at="2023-11-02T16:40:42 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOperatingSystemPage -->
+        <test-method signature="testWindows8OperatingSystem()[pri:7, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:40:42 IST" name="testWindows8OperatingSystem" finished-at="2023-11-02T16:40:44 IST" duration-ms="2251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWindows8OperatingSystem -->
+        <test-method signature="testWindows8OperatingSystemPage()[pri:8, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:40:44 IST" name="testWindows8OperatingSystemPage" finished-at="2023-11-02T16:40:44 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWindows8OperatingSystemPage -->
+        <test-method signature="testFavourite()[pri:9, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:40:44 IST" name="testFavourite" finished-at="2023-11-02T16:40:45 IST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavourite -->
+        <test-method signature="testEmail()[pri:10, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:40:45 IST" name="testEmail" finished-at="2023-11-02T16:41:04 IST" duration-ms="19270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method signature="testPassword()[pri:11, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:41:04 IST" name="testPassword" finished-at="2023-11-02T16:41:04 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPassword -->
+        <test-method signature="testLoginButton()[pri:12, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:41:04 IST" name="testLoginButton" finished-at="2023-11-02T16:41:05 IST" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginButton -->
+        <test-method signature="testMenu()[pri:13, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:41:05 IST" name="testMenu" finished-at="2023-11-02T16:41:25 IST" duration-ms="20211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenu -->
+        <test-method signature="testFavouriteUnderMenu()[pri:14, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:41:25 IST" name="testFavouriteUnderMenu" finished-at="2023-11-02T16:41:45 IST" duration-ms="20204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavouriteUnderMenu -->
+        <test-method signature="testWindows8OperatingSystemElement()[pri:15, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:41:45 IST" name="testWindows8OperatingSystemElement" finished-at="2023-11-02T16:42:05 IST" duration-ms="20043" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[expected [true] but found [false]]]>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='Windows 8 recovery DVD 64 bit']"}
+  (Session info: chrome=118.0.5993.118)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [65589e70ba31fee9ce23041793d4bdf6, findElement {using=xpath, value=//h2[normalize-space()='Windows 8 recovery DVD 64 bit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\PIYUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62146}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62146/devtoo..., se:cdpVersion: 118.0.5993.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65589e70ba31fee9ce23041793d4bdf6]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:110)
-at org.testng.Assert.failNotEquals(Assert.java:1577)
-at org.testng.Assert.assertTrue(Assert.java:56)
-at org.testng.Assert.assertTrue(Assert.java:66)
-at com.gumtree.tests.CarsTest.testHighestPriceFirstPagePage(CarsTest.java:72)
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='Windows 8 recovery DVD 64 bit']"}
+  (Session info: chrome=118.0.5993.118)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [65589e70ba31fee9ce23041793d4bdf6, findElement {using=xpath, value=//h2[normalize-space()='Windows 8 recovery DVD 64 bit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\PIYUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62146}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62146/devtoo..., se:cdpVersion: 118.0.5993.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65589e70ba31fee9ce23041793d4bdf6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy17.isDisplayed(Unknown Source)
+at com.gumtree.pages.ForSalePage.validateWindows8OperatingSystem(ForSalePage.java:120)
+at com.gumtree.tests.ForSaleTest.testWindows8OperatingSystemElement(ForSaleTest.java:201)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -65,39 +141,15 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testHighestPriceFirstPagePage -->
-        <test-method signature="testFordVan()[pri:5, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:55:07 IST" name="testFordVan" finished-at="2023-10-31T17:55:27 IST" duration-ms="20143" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testFordVan -->
-        <test-method signature="testsendMessageButton()[pri:6, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:55:27 IST" name="testsendMessageButton" finished-at="2023-10-31T17:55:27 IST" duration-ms="96" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testsendMessageButton -->
-        <test-method signature="testDeposit()[pri:7, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:55:27 IST" name="testDeposit" finished-at="2023-10-31T17:55:47 IST" duration-ms="20209" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testDeposit -->
-        <test-method signature="testRepaymentMonths()[pri:8, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:55:47 IST" name="testRepaymentMonths" finished-at="2023-10-31T17:56:07 IST" duration-ms="20204" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testRepaymentMonths -->
-        <test-method signature="testCreditScore()[pri:9, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:56:07 IST" name="testCreditScore" finished-at="2023-10-31T17:56:27 IST" duration-ms="20192" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCreditScore -->
-        <test-method signature="testApplyNow()[pri:10, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:56:27 IST" name="testApplyNow" finished-at="2023-10-31T17:56:48 IST" duration-ms="20229" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testApplyNow -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gumtree.tests.CarsTest@663c9e7a]" started-at="2023-10-31T17:56:48 IST" name="tearDown" finished-at="2023-10-31T17:56:48 IST" duration-ms="198" status="PASS">
+        </test-method> <!-- testWindows8OperatingSystemElement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gumtree.tests.ForSaleTest@1c5920df]" started-at="2023-11-02T16:42:05 IST" name="tearDown" finished-at="2023-11-02T16:42:06 IST" duration-ms="131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.gumtree.tests.CarsTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.gumtree.tests.ForSaleTest -->
+    </test> <!-- gumtree Test -->
+  </suite> <!-- Suite -->
 </testng-results>

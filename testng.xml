@@ -7,7 +7,7 @@
 	<test name="gumtree Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<class name="com.gumtree.tests.LoginTest" />
+			<class name="com.gumtree.tests.ForSaleTest" />
 		</classes>
 	</test> <!--
 	Test -->

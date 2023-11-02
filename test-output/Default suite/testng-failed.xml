@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.gumtree.tests.CarsTest">
+      <class name="com.gumtree.tests.ForSaleTest">
         <methods>
-          <include name="setUp"/>
+          <include name="testWindows8OperatingSystemElement"/>
           <include name="tearDown"/>
-          <include name="testHighestPriceFirstPagePage"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- com.gumtree.tests.CarsTest -->
+      </class> <!-- com.gumtree.tests.ForSaleTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
