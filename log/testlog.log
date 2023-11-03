@@ -252,3 +252,32 @@
 2023-11-02 16:41:04,427 - gumtree -INFO - click on login button
 2023-11-02 16:41:05,508 - gumtree -INFO - click on menu
 2023-11-02 16:41:25,724 - gumtree -INFO - click on favourite under menu
+2023-11-03 17:55:45,438 - gumtree -INFO - open the chrome browser
+2023-11-03 17:55:53,190 - gumtree -INFO - go to property and then click on internationals
+2023-11-03 17:56:28,096 - gumtree -INFO - sucessfully navigate to international property page
+2023-11-03 17:56:28,100 - gumtree -INFO - click on distance
+2023-11-03 17:56:48,380 - gumtree -INFO - select the distance
+2023-11-03 17:56:57,374 - gumtree -INFO - click on update
+2023-11-03 17:56:57,500 - gumtree -INFO - click on min
+2023-11-03 17:56:57,527 - gumtree -INFO - select min price
+2023-11-03 17:56:57,539 - gumtree -INFO - click on max
+2023-11-03 17:56:57,563 - gumtree -INFO - select max price
+2023-11-03 17:56:57,579 - gumtree -INFO - click on update
+2023-11-03 17:56:57,626 - gumtree -INFO - click on house garden
+2023-11-03 17:56:57,657 - gumtree -INFO - click on Favourite
+2023-11-03 17:57:04,783 - gumtree -INFO - open the chrome browser
+2023-11-03 17:57:11,306 - gumtree -INFO - go to property and then click on internationals
+2023-11-03 17:57:47,160 - gumtree -INFO - sucessfully navigate to international property page
+2023-11-03 17:57:47,165 - gumtree -INFO - click on distance
+2023-11-03 17:57:47,340 - gumtree -INFO - select the distance
+2023-11-03 17:57:47,455 - gumtree -INFO - click on update
+2023-11-03 17:58:11,982 - gumtree -INFO - sucessfully navigate to distance page
+2023-11-03 17:58:11,986 - gumtree -INFO - click on min
+2023-11-03 17:58:12,200 - gumtree -INFO - select min price
+2023-11-03 17:58:12,388 - gumtree -INFO - click on max
+2023-11-03 17:58:12,652 - gumtree -INFO - select max price
+2023-11-03 17:58:12,724 - gumtree -INFO - click on update
+2023-11-03 17:58:16,755 - gumtree -INFO - sucessfully navigate to price page
+2023-11-03 17:58:16,765 - gumtree -INFO - click on house garden
+2023-11-03 17:58:38,023 - gumtree -INFO - sucessfully navigate to house garden page
+2023-11-03 17:58:38,028 - gumtree -INFO - click on Favourite

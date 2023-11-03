@@ -252,3 +252,32 @@
 2023-11-02 16:41:04,427 [main] INFO gumtree - click on login button
 2023-11-02 16:41:05,508 [main] INFO gumtree - click on menu
 2023-11-02 16:41:25,724 [main] INFO gumtree - click on favourite under menu
+2023-11-03 17:55:45,438 [main] INFO gumtree - open the chrome browser
+2023-11-03 17:55:53,190 [main] INFO gumtree - go to property and then click on internationals
+2023-11-03 17:56:28,096 [main] INFO gumtree - sucessfully navigate to international property page
+2023-11-03 17:56:28,100 [main] INFO gumtree - click on distance
+2023-11-03 17:56:48,380 [main] INFO gumtree - select the distance
+2023-11-03 17:56:57,374 [main] INFO gumtree - click on update
+2023-11-03 17:56:57,500 [main] INFO gumtree - click on min
+2023-11-03 17:56:57,527 [main] INFO gumtree - select min price
+2023-11-03 17:56:57,539 [main] INFO gumtree - click on max
+2023-11-03 17:56:57,563 [main] INFO gumtree - select max price
+2023-11-03 17:56:57,579 [main] INFO gumtree - click on update
+2023-11-03 17:56:57,626 [main] INFO gumtree - click on house garden
+2023-11-03 17:56:57,657 [main] INFO gumtree - click on Favourite
+2023-11-03 17:57:04,783 [main] INFO gumtree - open the chrome browser
+2023-11-03 17:57:11,306 [main] INFO gumtree - go to property and then click on internationals
+2023-11-03 17:57:47,160 [main] INFO gumtree - sucessfully navigate to international property page
+2023-11-03 17:57:47,165 [main] INFO gumtree - click on distance
+2023-11-03 17:57:47,340 [main] INFO gumtree - select the distance
+2023-11-03 17:57:47,455 [main] INFO gumtree - click on update
+2023-11-03 17:58:11,982 [main] INFO gumtree - sucessfully navigate to distance page
+2023-11-03 17:58:11,986 [main] INFO gumtree - click on min
+2023-11-03 17:58:12,200 [main] INFO gumtree - select min price
+2023-11-03 17:58:12,388 [main] INFO gumtree - click on max
+2023-11-03 17:58:12,652 [main] INFO gumtree - select max price
+2023-11-03 17:58:12,724 [main] INFO gumtree - click on update
+2023-11-03 17:58:16,755 [main] INFO gumtree - sucessfully navigate to price page
+2023-11-03 17:58:16,765 [main] INFO gumtree - click on house garden
+2023-11-03 17:58:38,023 [main] INFO gumtree - sucessfully navigate to house garden page
+2023-11-03 17:58:38,028 [main] INFO gumtree - click on Favourite

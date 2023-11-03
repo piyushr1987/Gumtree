@@ -3,13 +3,24 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.gumtree.tests.ForSaleTest">
+      <class name="com.gumtree.tests.PropertyTest">
         <methods>
-          <include name="testWindows8OperatingSystemElement"/>
-          <include name="tearDown"/>
+          <include name="testMin"/>
+          <include name="testPricePage"/>
           <include name="setUp"/>
+          <include name="testDistancePage"/>
+          <include name="testMax"/>
+          <include name="testUpdate"/>
+          <include name="testMinPrice"/>
+          <include name="testselectDistance"/>
+          <include name="testMaxPrice"/>
+          <include name="testFavourite"/>
+          <include name="testUpadateDistance"/>
+          <include name="testHouseGarden"/>
+          <include name="tearDown"/>
+          <include name="testHouseGardenPage"/>
         </methods>
-      </class> <!-- com.gumtree.tests.ForSaleTest -->
+      </class> <!-- com.gumtree.tests.PropertyTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
