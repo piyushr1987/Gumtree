@@ -281,3 +281,52 @@
 2023-11-03 17:58:16,765 [main] INFO gumtree - click on house garden
 2023-11-03 17:58:38,023 [main] INFO gumtree - sucessfully navigate to house garden page
 2023-11-03 17:58:38,028 [main] INFO gumtree - click on Favourite
+2023-11-04 17:17:59,111 [main] INFO gumtree - open the chrome browser
+2023-11-04 17:18:36,622 [main] INFO gumtree - go to jobs and then click on engineering
+2023-11-04 17:19:17,496 [main] INFO gumtree - sucessfully navigate to engineering jobs page
+2023-11-04 17:19:17,499 [main] INFO gumtree - click on Mechanical Engineering
+2023-11-04 17:19:20,602 [main] INFO gumtree - sucessfully navigate to Mechanical Engineering Jobs page
+2023-11-04 17:19:20,606 [main] INFO gumtree - click on Permant Jobs
+2023-11-04 17:19:22,619 [main] INFO gumtree - sucessfully navigate to Permant Jobs Page
+2023-11-04 17:19:22,623 [main] INFO gumtree - click on Experience
+2023-11-04 17:19:41,939 [main] INFO gumtree - sucessfully navigate to Experience Jobs Page
+2023-11-04 17:19:41,942 [main] INFO gumtree - click on Workshop Operative
+2023-11-04 17:19:52,951 [main] INFO gumtree - sucessfully navigate to Workshop Operative Page
+2023-11-04 17:19:52,954 [main] INFO gumtree - click on apply
+2023-11-04 17:19:55,998 [main] INFO gumtree - sucessfully navigate to reply Page
+2023-11-04 17:19:56,000 [main] INFO gumtree - enter matter in cover letter
+2023-11-04 17:19:56,231 [main] INFO gumtree - click on send
+2023-11-04 17:19:56,303 [main] INFO gumtree - sucess message is displayed sucessfully
+2023-11-04 17:36:57,910 [main] INFO gumtree - open the chrome browser
+2023-11-04 17:37:00,588 [main] INFO gumtree - go to jobs and then click on engineering
+2023-11-04 17:38:11,287 [main] INFO gumtree - sucessfully navigate to engineering jobs page
+2023-11-04 17:38:11,291 [main] INFO gumtree - click on Mechanical Engineering
+2023-11-04 17:38:41,075 [main] INFO gumtree - sucessfully navigate to Mechanical Engineering Jobs page
+2023-11-04 17:38:41,085 [main] INFO gumtree - click on Permant Jobs
+2023-11-04 17:38:44,607 [main] INFO gumtree - sucessfully navigate to Permant Jobs Page
+2023-11-04 17:38:44,612 [main] INFO gumtree - click on Experience
+2023-11-04 17:38:47,456 [main] INFO gumtree - sucessfully navigate to Experience Jobs Page
+2023-11-04 17:38:47,461 [main] INFO gumtree - click on Workshop Operative
+2023-11-04 17:39:06,307 [main] INFO gumtree - sucessfully navigate to Workshop Operative Page
+2023-11-04 17:39:06,309 [main] INFO gumtree - click on apply
+2023-11-04 17:39:10,441 [main] INFO gumtree - sucessfully navigate to reply Page
+2023-11-04 17:39:10,445 [main] INFO gumtree - enter matter in cover letter
+2023-11-04 17:39:10,754 [main] INFO gumtree - click on send
+2023-11-04 17:39:11,102 [main] INFO gumtree - sucess message is displayed sucessfully
+2023-11-04 17:48:13,776 [main] INFO gumtree - open the chrome browser
+2023-11-04 17:48:20,074 [main] INFO gumtree - go to jobs and then click on engineering
+2023-11-04 17:48:59,141 [main] INFO gumtree - sucessfully navigate to engineering jobs page
+2023-11-04 17:48:59,144 [main] INFO gumtree - click on Mechanical Engineering
+2023-11-04 17:49:02,112 [main] INFO gumtree - sucessfully navigate to Mechanical Engineering Jobs page
+2023-11-04 17:49:02,115 [main] INFO gumtree - click on Permant Jobs
+2023-11-04 17:49:03,952 [main] INFO gumtree - sucessfully navigate to Permant Jobs Page
+2023-11-04 17:49:03,956 [main] INFO gumtree - click on Experience
+2023-11-04 17:49:06,683 [main] INFO gumtree - sucessfully navigate to Experience Jobs Page
+2023-11-04 17:49:06,689 [main] INFO gumtree - click on Workshop Operative
+2023-11-04 17:49:09,063 [main] INFO gumtree - sucessfully navigate to Workshop Operative Page
+2023-11-04 17:49:09,066 [main] INFO gumtree - click on apply
+2023-11-04 17:49:12,188 [main] INFO gumtree - sucessfully navigate to reply Page
+2023-11-04 17:49:12,192 [main] INFO gumtree - enter first name.last name and email
+2023-11-04 17:49:12,411 [main] INFO gumtree - enter matter in cover letter
+2023-11-04 17:49:12,584 [main] INFO gumtree - click on send
+2023-11-04 17:49:12,636 [main] INFO gumtree - sucess message is displayed sucessfully

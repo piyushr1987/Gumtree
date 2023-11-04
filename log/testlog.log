@@ -281,3 +281,52 @@
 2023-11-03 17:58:16,765 - gumtree -INFO - click on house garden
 2023-11-03 17:58:38,023 - gumtree -INFO - sucessfully navigate to house garden page
 2023-11-03 17:58:38,028 - gumtree -INFO - click on Favourite
+2023-11-04 17:17:59,111 - gumtree -INFO - open the chrome browser
+2023-11-04 17:18:36,622 - gumtree -INFO - go to jobs and then click on engineering
+2023-11-04 17:19:17,496 - gumtree -INFO - sucessfully navigate to engineering jobs page
+2023-11-04 17:19:17,499 - gumtree -INFO - click on Mechanical Engineering
+2023-11-04 17:19:20,602 - gumtree -INFO - sucessfully navigate to Mechanical Engineering Jobs page
+2023-11-04 17:19:20,606 - gumtree -INFO - click on Permant Jobs
+2023-11-04 17:19:22,619 - gumtree -INFO - sucessfully navigate to Permant Jobs Page
+2023-11-04 17:19:22,623 - gumtree -INFO - click on Experience
+2023-11-04 17:19:41,939 - gumtree -INFO - sucessfully navigate to Experience Jobs Page
+2023-11-04 17:19:41,942 - gumtree -INFO - click on Workshop Operative
+2023-11-04 17:19:52,951 - gumtree -INFO - sucessfully navigate to Workshop Operative Page
+2023-11-04 17:19:52,954 - gumtree -INFO - click on apply
+2023-11-04 17:19:55,998 - gumtree -INFO - sucessfully navigate to reply Page
+2023-11-04 17:19:56,000 - gumtree -INFO - enter matter in cover letter
+2023-11-04 17:19:56,231 - gumtree -INFO - click on send
+2023-11-04 17:19:56,303 - gumtree -INFO - sucess message is displayed sucessfully
+2023-11-04 17:36:57,910 - gumtree -INFO - open the chrome browser
+2023-11-04 17:37:00,588 - gumtree -INFO - go to jobs and then click on engineering
+2023-11-04 17:38:11,287 - gumtree -INFO - sucessfully navigate to engineering jobs page
+2023-11-04 17:38:11,291 - gumtree -INFO - click on Mechanical Engineering
+2023-11-04 17:38:41,075 - gumtree -INFO - sucessfully navigate to Mechanical Engineering Jobs page
+2023-11-04 17:38:41,085 - gumtree -INFO - click on Permant Jobs
+2023-11-04 17:38:44,607 - gumtree -INFO - sucessfully navigate to Permant Jobs Page
+2023-11-04 17:38:44,612 - gumtree -INFO - click on Experience
+2023-11-04 17:38:47,456 - gumtree -INFO - sucessfully navigate to Experience Jobs Page
+2023-11-04 17:38:47,461 - gumtree -INFO - click on Workshop Operative
+2023-11-04 17:39:06,307 - gumtree -INFO - sucessfully navigate to Workshop Operative Page
+2023-11-04 17:39:06,309 - gumtree -INFO - click on apply
+2023-11-04 17:39:10,441 - gumtree -INFO - sucessfully navigate to reply Page
+2023-11-04 17:39:10,445 - gumtree -INFO - enter matter in cover letter
+2023-11-04 17:39:10,754 - gumtree -INFO - click on send
+2023-11-04 17:39:11,102 - gumtree -INFO - sucess message is displayed sucessfully
+2023-11-04 17:48:13,776 - gumtree -INFO - open the chrome browser
+2023-11-04 17:48:20,074 - gumtree -INFO - go to jobs and then click on engineering
+2023-11-04 17:48:59,141 - gumtree -INFO - sucessfully navigate to engineering jobs page
+2023-11-04 17:48:59,144 - gumtree -INFO - click on Mechanical Engineering
+2023-11-04 17:49:02,112 - gumtree -INFO - sucessfully navigate to Mechanical Engineering Jobs page
+2023-11-04 17:49:02,115 - gumtree -INFO - click on Permant Jobs
+2023-11-04 17:49:03,952 - gumtree -INFO - sucessfully navigate to Permant Jobs Page
+2023-11-04 17:49:03,956 - gumtree -INFO - click on Experience
+2023-11-04 17:49:06,683 - gumtree -INFO - sucessfully navigate to Experience Jobs Page
+2023-11-04 17:49:06,689 - gumtree -INFO - click on Workshop Operative
+2023-11-04 17:49:09,063 - gumtree -INFO - sucessfully navigate to Workshop Operative Page
+2023-11-04 17:49:09,066 - gumtree -INFO - click on apply
+2023-11-04 17:49:12,188 - gumtree -INFO - sucessfully navigate to reply Page
+2023-11-04 17:49:12,192 - gumtree -INFO - enter first name.last name and email
+2023-11-04 17:49:12,411 - gumtree -INFO - enter matter in cover letter
+2023-11-04 17:49:12,584 - gumtree -INFO - click on send
+2023-11-04 17:49:12,636 - gumtree -INFO - sucess message is displayed sucessfully
