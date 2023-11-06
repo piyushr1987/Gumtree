@@ -330,3 +330,26 @@
 2023-11-04 17:49:12,411 [main] INFO gumtree - enter matter in cover letter
 2023-11-04 17:49:12,584 [main] INFO gumtree - click on send
 2023-11-04 17:49:12,636 [main] INFO gumtree - sucess message is displayed sucessfully
+2023-11-06 17:02:15,262 [main] INFO gumtree - open the chrome browser
+2023-11-06 17:02:24,658 [main] INFO gumtree - go to services and click on pets
+2023-11-06 17:03:01,152 [main] INFO gumtree - sucessfully navigate to pet service page
+2023-11-06 17:03:01,153 [main] INFO gumtree - click on choose distance
+2023-11-06 17:03:02,521 [main] INFO gumtree - select +10 miles distance
+2023-11-06 17:03:22,798 [main] INFO gumtree - click on update
+2023-11-06 17:04:01,145 [main] INFO gumtree - click on Petsitter&Dogwalker
+2023-11-06 17:04:30,923 [main] INFO gumtree - sucessfully navigate to petsitter page
+2023-11-06 17:04:30,926 [main] INFO gumtree - click on the aves hotel
+2023-11-06 17:04:34,904 [main] INFO gumtree - sucessfully navigate to the aves hotel page
+2023-11-06 17:04:34,917 [main] INFO gumtree - click on Favourite
+2023-11-06 17:06:16,939 [main] INFO gumtree - open the chrome browser
+2023-11-06 17:06:24,384 [main] INFO gumtree - go to services and click on pets
+2023-11-06 17:06:59,884 [main] INFO gumtree - sucessfully navigate to pet service page
+2023-11-06 17:06:59,898 [main] INFO gumtree - click on choose distance
+2023-11-06 17:07:00,035 [main] INFO gumtree - select +10 miles distance
+2023-11-06 17:07:00,182 [main] INFO gumtree - click on update
+2023-11-06 17:07:03,276 [main] INFO gumtree - sucessfully navigate to distance page
+2023-11-06 17:07:03,282 [main] INFO gumtree - click on Petsitter&Dogwalker
+2023-11-06 17:07:06,446 [main] INFO gumtree - sucessfully navigate to petsitter page
+2023-11-06 17:07:06,448 [main] INFO gumtree - click on the aves hotel
+2023-11-06 17:07:09,599 [main] INFO gumtree - sucessfully navigate to the aves hotel page
+2023-11-06 17:07:09,600 [main] INFO gumtree - click on Favourite
