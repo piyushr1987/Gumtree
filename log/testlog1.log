@@ -353,3 +353,75 @@
 2023-11-06 17:07:06,448 [main] INFO gumtree - click on the aves hotel
 2023-11-06 17:07:09,599 [main] INFO gumtree - sucessfully navigate to the aves hotel page
 2023-11-06 17:07:09,600 [main] INFO gumtree - click on Favourite
+2023-11-07 17:55:05,630 [main] INFO gumtree - open the chrome browser
+2023-11-07 17:55:12,329 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-07 17:55:12,416 [main] INFO gumtree - go to community and click on music,bands and musician
+2023-11-07 17:55:47,573 [main] INFO gumtree - sucessfully navigate to music,bands and musician page
+2023-11-07 17:55:47,581 [main] INFO gumtree - click on most recent
+2023-11-07 17:55:47,692 [main] INFO gumtree - click on nearest
+2023-11-07 17:56:11,904 [main] INFO gumtree - sucessfully navigate to Nearest Distance Page
+2023-11-07 17:56:11,912 [main] INFO gumtree - click on Musician Wanted
+2023-11-07 17:56:32,944 [main] INFO gumtree - click on Guitar Player
+2023-11-07 17:56:53,832 [main] INFO gumtree - click on Lead Guitarist
+2023-11-07 17:57:14,725 [main] INFO gumtree - click on open image
+2023-11-07 17:57:35,164 [main] INFO gumtree - click on close image
+2023-11-07 17:57:55,688 [main] INFO gumtree - click on report
+2023-11-07 17:58:16,108 [main] INFO gumtree - click on spam ad
+2023-11-07 17:58:36,691 [main] INFO gumtree - enter message
+2023-11-07 17:58:57,163 [main] INFO gumtree - click on send
+2023-11-07 17:59:37,870 [main] INFO gumtree - click on close
+2023-11-07 18:09:41,123 [main] INFO gumtree - open the chrome browser
+2023-11-07 18:09:45,680 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-07 18:09:45,741 [main] INFO gumtree - go to community and click on music,bands and musician
+2023-11-07 18:10:20,104 [main] INFO gumtree - sucessfully navigate to music,bands and musician page
+2023-11-07 18:10:20,108 [main] INFO gumtree - click on most recent
+2023-11-07 18:10:20,193 [main] INFO gumtree - click on nearest
+2023-11-07 18:10:44,401 [main] INFO gumtree - sucessfully navigate to Nearest Distance Page
+2023-11-07 18:10:44,406 [main] INFO gumtree - click on Musician Wanted
+2023-11-07 18:11:09,107 [main] INFO gumtree - sucessfully navigate to Musician Wanted Page
+2023-11-07 18:11:09,113 [main] INFO gumtree - click on Guitar Player
+2023-11-07 18:11:11,395 [main] INFO gumtree - sucessfully navigate to Guitar Player Page
+2023-11-07 18:11:11,399 [main] INFO gumtree - click on Lead Guitarist
+2023-11-07 18:11:13,790 [main] INFO gumtree - click on open image
+2023-11-07 18:11:13,910 [main] INFO gumtree - click on close image
+2023-11-07 18:11:13,992 [main] INFO gumtree - click on report
+2023-11-07 18:11:14,357 [main] INFO gumtree - click on spam ad
+2023-11-07 18:11:14,414 [main] INFO gumtree - enter message
+2023-11-07 18:11:14,686 [main] INFO gumtree - click on send
+2023-11-07 18:11:34,970 [main] INFO gumtree - click on close
+2023-11-07 18:13:34,740 [main] INFO gumtree - open the chrome browser
+2023-11-07 18:13:37,415 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-07 18:13:37,496 [main] INFO gumtree - go to community and click on music,bands and musician
+2023-11-07 18:14:15,106 [main] INFO gumtree - sucessfully navigate to music,bands and musician page
+2023-11-07 18:14:15,111 [main] INFO gumtree - click on most recent
+2023-11-07 18:14:15,209 [main] INFO gumtree - click on nearest
+2023-11-07 18:14:39,646 [main] INFO gumtree - sucessfully navigate to Nearest Distance Page
+2023-11-07 18:14:39,650 [main] INFO gumtree - click on Musician Wanted
+2023-11-07 18:14:42,612 [main] INFO gumtree - sucessfully navigate to Musician Wanted Page
+2023-11-07 18:14:42,618 [main] INFO gumtree - click on Guitar Player
+2023-11-07 18:14:43,157 [main] INFO gumtree - sucessfully navigate to Guitar Player Page
+2023-11-07 18:14:43,165 [main] INFO gumtree - click on Lead Guitarist
+2023-11-07 18:15:02,352 [main] INFO gumtree - click on open image
+2023-11-07 18:15:02,383 [main] INFO gumtree - click on close image
+2023-11-07 18:15:02,399 [main] INFO gumtree - click on report
+2023-11-07 18:15:02,415 [main] INFO gumtree - click on spam ad
+2023-11-07 18:15:02,431 [main] INFO gumtree - enter message
+2023-11-07 18:15:02,450 [main] INFO gumtree - click on send
+2023-11-07 18:15:02,481 [main] INFO gumtree - click on close
+2023-11-07 18:15:10,661 [main] INFO gumtree - open the chrome browser
+2023-11-07 18:15:15,928 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-07 18:15:15,984 [main] INFO gumtree - go to community and click on music,bands and musician
+2023-11-07 18:15:50,608 [main] INFO gumtree - sucessfully navigate to music,bands and musician page
+2023-11-07 18:15:50,610 [main] INFO gumtree - click on most recent
+2023-11-07 18:15:50,724 [main] INFO gumtree - click on nearest
+2023-11-07 18:15:51,410 [main] INFO gumtree - sucessfully navigate to Nearest Distance Page
+2023-11-07 18:15:51,413 [main] INFO gumtree - click on Musician Wanted
+2023-11-07 18:16:11,670 [main] INFO gumtree - click on Guitar Player
+2023-11-07 18:16:31,897 [main] INFO gumtree - click on Lead Guitarist
+2023-11-07 18:16:52,125 [main] INFO gumtree - click on open image
+2023-11-07 18:17:12,283 [main] INFO gumtree - click on close image
+2023-11-07 18:17:32,453 [main] INFO gumtree - click on report
+2023-11-07 18:17:52,595 [main] INFO gumtree - click on spam ad
+2023-11-07 18:18:12,737 [main] INFO gumtree - enter message
+2023-11-07 18:18:32,875 [main] INFO gumtree - click on send
+2023-11-07 18:19:13,118 [main] INFO gumtree - click on close

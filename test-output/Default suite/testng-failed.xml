@@ -3,13 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.gumtree.tests.ServicesTest">
+      <class name="com.gumtree.tests.CommunityTest">
         <methods>
           <include name="setUp"/>
-          <include name="testDistancePage"/>
           <include name="tearDown"/>
+          <include name="testThankYouMessage"/>
+          <include name="testGuitarPlayerPage"/>
+          <include name="testMusicianWantedPage"/>
+          <include name="testLeadGuitaristPage"/>
         </methods>
-      </class> <!-- com.gumtree.tests.ServicesTest -->
+      </class> <!-- com.gumtree.tests.CommunityTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

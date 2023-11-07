@@ -58,6 +58,7 @@ public class BaseClass {
 			System.out.println("Please giver correct browser name");
 		}
 		driver.get(prop.getProperty("url"));
+		Logger.info("navigate to www.gumtree.com");
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 	}
 
