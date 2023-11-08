@@ -425,3 +425,17 @@
 2023-11-07 18:18:12,737 - gumtree -INFO - enter message
 2023-11-07 18:18:32,875 - gumtree -INFO - click on send
 2023-11-07 18:19:13,118 - gumtree -INFO - click on close
+2023-11-08 17:42:05,533 - gumtree -INFO - open the chrome browser
+2023-11-08 17:42:43,179 - gumtree -INFO - open the chrome browser
+2023-11-08 17:44:11,990 - gumtree -INFO - open the chrome browser
+2023-11-08 17:48:07,095 - gumtree -INFO - open the chrome browser
+2023-11-08 17:48:12,480 - gumtree -INFO - navigate to www.gumtree.com
+2023-11-08 17:48:12,523 - gumtree -INFO - go to pets and click on missing,lost&found
+2023-11-08 17:48:48,086 - gumtree -INFO - sucessfully navigate to pets missing page
+2023-11-08 17:48:48,091 - gumtree -INFO - enter the location
+2023-11-08 17:48:54,363 - gumtree -INFO - sucessfully navigate to specified location
+2023-11-08 17:48:54,376 - gumtree -INFO - click on ginger tom cat
+2023-11-08 17:49:15,807 - gumtree -INFO - sucessfully navigate to Ginger Tom Cat Page
+2023-11-08 17:49:15,817 - gumtree -INFO - click on next button
+2023-11-08 17:49:16,141 - gumtree -INFO - expected and actual id is matched
+2023-11-08 17:49:16,146 - gumtree -INFO - click on facebook link
