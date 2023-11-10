@@ -439,3 +439,45 @@
 2023-11-08 17:49:15,817 [main] INFO gumtree - click on next button
 2023-11-08 17:49:16,141 [main] INFO gumtree - expected and actual id is matched
 2023-11-08 17:49:16,146 [main] INFO gumtree - click on facebook link
+2023-11-10 17:09:24,550 [main] INFO gumtree - open the chrome browser
+2023-11-10 17:09:31,439 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-10 17:09:31,516 [main] INFO gumtree - click on latest jobs
+2023-11-10 17:09:33,371 [main] INFO gumtree - click on Teaching And Education
+2023-11-10 17:09:53,663 [main] INFO gumtree - click on Tutor
+2023-11-10 17:09:59,153 [main] INFO gumtree - click on Permanent
+2023-11-10 17:09:59,182 [main] INFO gumtree - click on SupportWorker
+2023-11-10 17:09:59,210 [main] INFO gumtree - click on apply button
+2023-11-10 17:12:54,954 [main] INFO gumtree - open the chrome browser
+2023-11-10 17:13:01,232 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-10 17:13:01,360 [main] INFO gumtree - click on accept
+2023-11-10 17:13:01,660 [main] INFO gumtree - click on latest jobs
+2023-11-10 17:13:34,447 [main] INFO gumtree - sucessfully navigate to Latest Jobs Page
+2023-11-10 17:13:34,455 [main] INFO gumtree - click on Teaching And Education
+2023-11-10 17:13:59,444 [main] INFO gumtree - click on Tutor
+2023-11-10 17:14:16,844 [main] INFO gumtree - click on Permanent
+2023-11-10 17:14:16,912 [main] INFO gumtree - click on SupportWorker
+2023-11-10 17:14:16,954 [main] INFO gumtree - click on apply button
+2023-11-10 17:14:33,600 [main] INFO gumtree - open the chrome browser
+2023-11-10 17:14:42,380 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-10 17:14:42,477 [main] INFO gumtree - click on accept
+2023-11-10 17:14:42,734 [main] INFO gumtree - click on latest jobs
+2023-11-10 17:15:15,240 [main] INFO gumtree - sucessfully navigate to Latest Jobs Page
+2023-11-10 17:15:15,248 [main] INFO gumtree - click on Teaching And Education
+2023-11-10 17:15:23,210 [main] INFO gumtree - click on Tutor
+2023-11-10 17:15:23,261 [main] INFO gumtree - click on Permanent
+2023-11-10 17:15:23,299 [main] INFO gumtree - click on SupportWorker
+2023-11-10 17:15:23,324 [main] INFO gumtree - click on apply button
+2023-11-10 17:16:55,065 [main] INFO gumtree - open the chrome browser
+2023-11-10 17:17:01,912 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-10 17:17:01,969 [main] INFO gumtree - click on accept
+2023-11-10 17:17:02,764 [main] INFO gumtree - click on latest jobs
+2023-11-10 17:17:34,371 [main] INFO gumtree - sucessfully navigate to Latest Jobs Page
+2023-11-10 17:17:34,386 [main] INFO gumtree - click on Teaching And Education
+2023-11-10 17:18:01,823 [main] INFO gumtree - sucessfully navigate to Teaching Jobs Page
+2023-11-10 17:18:01,823 [main] INFO gumtree - click on Tutor
+2023-11-10 17:18:05,102 [main] INFO gumtree - sucessfully navigate to Tutor Page
+2023-11-10 17:18:05,102 [main] INFO gumtree - click on Permanent
+2023-11-10 17:18:07,017 [main] INFO gumtree - sucessfully navigate to Permanent Jobs Page
+2023-11-10 17:18:07,026 [main] INFO gumtree - click on SupportWorker
+2023-11-10 17:18:09,416 [main] INFO gumtree - sucessfully navigate to Support Worker Page
+2023-11-10 17:18:09,424 [main] INFO gumtree - click on apply button

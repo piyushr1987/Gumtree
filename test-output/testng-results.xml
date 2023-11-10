@@ -1,57 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-08T17:48:06 IST" name="Default suite" finished-at="2023-11-08T17:49:16 IST" duration-ms="69762">
+  <suite started-at="2023-11-10T17:16:54 IST" name="Default suite" finished-at="2023-11-10T17:18:09 IST" duration-ms="74747">
     <groups>
     </groups>
-    <test started-at="2023-11-08T17:48:06 IST" name="Default test" finished-at="2023-11-08T17:49:16 IST" duration-ms="69762">
-      <class name="com.gumtree.tests.PetsTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:48:06 IST" name="setUp" finished-at="2023-11-08T17:48:12 IST" duration-ms="5511" status="PASS">
+    <test started-at="2023-11-10T17:16:54 IST" name="Default test" finished-at="2023-11-10T17:18:09 IST" duration-ms="74747">
+      <class name="com.gumtree.tests.LatestJobsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:16:54 IST" name="setUp" finished-at="2023-11-10T17:17:01 IST" duration-ms="6983" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testPets()[pri:1, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:48:12 IST" name="testPets" finished-at="2023-11-08T17:48:48 IST" duration-ms="35524" status="PASS">
+        <test-method signature="testAccept()[pri:1, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:17:01 IST" name="testAccept" finished-at="2023-11-10T17:17:02 IST" duration-ms="790" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPets -->
-        <test-method signature="testPetMissingPage()[pri:2, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:48:48 IST" name="testPetMissingPage" finished-at="2023-11-08T17:48:48 IST" duration-ms="29" status="PASS">
+        </test-method> <!-- testAccept -->
+        <test-method signature="testLatestJobs()[pri:2, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:17:02 IST" name="testLatestJobs" finished-at="2023-11-10T17:17:34 IST" duration-ms="31563" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPetMissingPage -->
-        <test-method signature="testLocation()[pri:3, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:48:48 IST" name="testLocation" finished-at="2023-11-08T17:48:54 IST" duration-ms="6227" status="PASS">
+        </test-method> <!-- testLatestJobs -->
+        <test-method signature="testLatestJobsPage()[pri:3, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:17:34 IST" name="testLatestJobsPage" finished-at="2023-11-10T17:17:34 IST" duration-ms="38" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLocation -->
-        <test-method signature="testLocationPage()[pri:4, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:48:54 IST" name="testLocationPage" finished-at="2023-11-08T17:48:54 IST" duration-ms="30" status="PASS">
+        </test-method> <!-- testLatestJobsPage -->
+        <test-method signature="testTeachingAndEducation()[pri:4, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:17:34 IST" name="testTeachingAndEducation" finished-at="2023-11-10T17:18:01 IST" duration-ms="27440" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLocationPage -->
-        <test-method signature="testGingerTomCat()[pri:5, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:48:54 IST" name="testGingerTomCat" finished-at="2023-11-08T17:49:15 IST" duration-ms="21418" status="PASS">
+        </test-method> <!-- testTeachingAndEducation -->
+        <test-method signature="testTeachingJobsPage()[pri:5, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:01 IST" name="testTeachingJobsPage" finished-at="2023-11-10T17:18:01 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testGingerTomCat -->
-        <test-method signature="testGingerTomCatPage()[pri:6, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:49:15 IST" name="testGingerTomCatPage" finished-at="2023-11-08T17:49:15 IST" duration-ms="12" status="PASS">
+        </test-method> <!-- testTeachingJobsPage -->
+        <test-method signature="testTutor()[pri:6, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:01 IST" name="testTutor" finished-at="2023-11-10T17:18:05 IST" duration-ms="3246" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testGingerTomCatPage -->
-        <test-method signature="testNextButton()[pri:7, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:49:15 IST" name="testNextButton" finished-at="2023-11-08T17:49:15 IST" duration-ms="138" status="PASS">
+        </test-method> <!-- testTutor -->
+        <test-method signature="testTutorPage()[pri:7, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:05 IST" name="testTutorPage" finished-at="2023-11-10T17:18:05 IST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testNextButton -->
-        <test-method signature="testAdId()[pri:8, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:49:15 IST" name="testAdId" finished-at="2023-11-08T17:49:16 IST" duration-ms="185" status="PASS">
+        </test-method> <!-- testTutorPage -->
+        <test-method signature="testPermanent()[pri:8, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:05 IST" name="testPermanent" finished-at="2023-11-10T17:18:06 IST" duration-ms="1895" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testAdId -->
-        <test-method signature="testFacebook()[pri:9, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:49:16 IST" name="testFacebook" finished-at="2023-11-08T17:49:16 IST" duration-ms="156" status="PASS">
+        </test-method> <!-- testPermanent -->
+        <test-method signature="testPermanentJobsPage()[pri:9, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:07 IST" name="testPermanentJobsPage" finished-at="2023-11-10T17:18:07 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testFacebook -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gumtree.tests.PetsTest@1cf6d1be]" started-at="2023-11-08T17:49:16 IST" name="tearDown" finished-at="2023-11-08T17:49:16 IST" duration-ms="422" status="PASS">
+        </test-method> <!-- testPermanentJobsPage -->
+        <test-method signature="testSupportWorker()[pri:10, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:07 IST" name="testSupportWorker" finished-at="2023-11-10T17:18:09 IST" duration-ms="2378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSupportWorker -->
+        <test-method signature="testSupportWorkerPage()[pri:11, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:09 IST" name="testSupportWorkerPage" finished-at="2023-11-10T17:18:09 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSupportWorkerPage -->
+        <test-method signature="testApply()[pri:12, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:09 IST" name="testApply" finished-at="2023-11-10T17:18:09 IST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApply -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:09 IST" name="tearDown" finished-at="2023-11-10T17:18:09 IST" duration-ms="210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.gumtree.tests.PetsTest -->
+      </class> <!-- com.gumtree.tests.LatestJobsTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

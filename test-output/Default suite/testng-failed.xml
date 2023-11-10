@@ -3,21 +3,20 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.gumtree.tests.PetsTest">
+      <class name="com.gumtree.tests.LatestJobsTest">
         <methods>
-          <include name="testGingerTomCatPage"/>
-          <include name="testNextButton"/>
-          <include name="testLocation"/>
-          <include name="testPets"/>
-          <include name="testGingerTomCat"/>
+          <include name="testPermanent"/>
+          <include name="testTutorPage"/>
           <include name="tearDown"/>
+          <include name="testApply"/>
           <include name="setUp"/>
-          <include name="testLocationPage"/>
-          <include name="testAdId"/>
-          <include name="testPetMissingPage"/>
-          <include name="testFacebook"/>
+          <include name="testTutor"/>
+          <include name="testPermanentJobsPage"/>
+          <include name="testSupportWorker"/>
+          <include name="testTeachingJobsPage"/>
+          <include name="testSupportWorkerPage"/>
         </methods>
-      </class> <!-- com.gumtree.tests.PetsTest -->
+      </class> <!-- com.gumtree.tests.LatestJobsTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
