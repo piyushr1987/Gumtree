@@ -1,69 +1,334 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+<testng-results ignored="0" total="13" passed="9" failed="4" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-10T17:16:54 IST" name="Default suite" finished-at="2023-11-10T17:18:09 IST" duration-ms="74747">
+  <suite started-at="2023-11-11T17:30:45 IST" name="Default suite" finished-at="2023-11-11T17:33:06 IST" duration-ms="141053">
     <groups>
     </groups>
-    <test started-at="2023-11-10T17:16:54 IST" name="Default test" finished-at="2023-11-10T17:18:09 IST" duration-ms="74747">
-      <class name="com.gumtree.tests.LatestJobsTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:16:54 IST" name="setUp" finished-at="2023-11-10T17:17:01 IST" duration-ms="6983" status="PASS">
+    <test started-at="2023-11-11T17:30:45 IST" name="Default test" finished-at="2023-11-11T17:33:06 IST" duration-ms="141053">
+      <class name="com.gumtree.tests.CosyLivingRoomFurnitureTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:30:45 IST" name="setUp" finished-at="2023-11-11T17:30:52 IST" duration-ms="6497" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testAccept()[pri:1, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:17:01 IST" name="testAccept" finished-at="2023-11-10T17:17:02 IST" duration-ms="790" status="PASS">
+        <test-method signature="testAccept()[pri:1, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:30:52 IST" name="testAccept" finished-at="2023-11-11T17:30:52 IST" duration-ms="187" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAccept -->
-        <test-method signature="testLatestJobs()[pri:2, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:17:02 IST" name="testLatestJobs" finished-at="2023-11-10T17:17:34 IST" duration-ms="31563" status="PASS">
+        <test-method signature="testLivingRoomFurniture()[pri:2, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:30:52 IST" name="testLivingRoomFurniture" finished-at="2023-11-11T17:30:53 IST" duration-ms="950" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLatestJobs -->
-        <test-method signature="testLatestJobsPage()[pri:3, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:17:34 IST" name="testLatestJobsPage" finished-at="2023-11-10T17:17:34 IST" duration-ms="38" status="PASS">
+        </test-method> <!-- testLivingRoomFurniture -->
+        <test-method signature="testDiningAndLivingRoomFurniturePage()[pri:3, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:30:53 IST" name="testDiningAndLivingRoomFurniturePage" finished-at="2023-11-11T17:30:53 IST" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLatestJobsPage -->
-        <test-method signature="testTeachingAndEducation()[pri:4, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:17:34 IST" name="testTeachingAndEducation" finished-at="2023-11-10T17:18:01 IST" duration-ms="27440" status="PASS">
+        </test-method> <!-- testDiningAndLivingRoomFurniturePage -->
+        <test-method signature="testshowMore()[pri:4, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:30:53 IST" name="testshowMore" finished-at="2023-11-11T17:31:13 IST" duration-ms="20228" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTeachingAndEducation -->
-        <test-method signature="testTeachingJobsPage()[pri:5, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:01 IST" name="testTeachingJobsPage" finished-at="2023-11-10T17:18:01 IST" duration-ms="8" status="PASS">
+        </test-method> <!-- testshowMore -->
+        <test-method signature="testCoffeeTable()[pri:5, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:31:13 IST" name="testCoffeeTable" finished-at="2023-11-11T17:31:33 IST" duration-ms="20288" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTeachingJobsPage -->
-        <test-method signature="testTutor()[pri:6, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:01 IST" name="testTutor" finished-at="2023-11-10T17:18:05 IST" duration-ms="3246" status="PASS">
+        </test-method> <!-- testCoffeeTable -->
+        <test-method signature="testCoffeeTablePage()[pri:6, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:31:33 IST" name="testCoffeeTablePage" finished-at="2023-11-11T17:31:33 IST" duration-ms="135" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.gumtree.tests.CosyLivingRoomFurnitureTest.testCoffeeTablePage(CosyLivingRoomFurnitureTest.java:96)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTutor -->
-        <test-method signature="testTutorPage()[pri:7, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:05 IST" name="testTutorPage" finished-at="2023-11-10T17:18:05 IST" duration-ms="18" status="PASS">
+        </test-method> <!-- testCoffeeTablePage -->
+        <test-method signature="testMinPrice()[pri:7, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:31:33 IST" name="testMinPrice" finished-at="2023-11-11T17:31:54 IST" duration-ms="20224" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTutorPage -->
-        <test-method signature="testPermanent()[pri:8, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:05 IST" name="testPermanent" finished-at="2023-11-10T17:18:06 IST" duration-ms="1895" status="PASS">
+        </test-method> <!-- testMinPrice -->
+        <test-method signature="testMaxPrice()[pri:8, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:31:54 IST" name="testMaxPrice" finished-at="2023-11-11T17:32:14 IST" duration-ms="20263" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPermanent -->
-        <test-method signature="testPermanentJobsPage()[pri:9, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:07 IST" name="testPermanentJobsPage" finished-at="2023-11-10T17:18:07 IST" duration-ms="15" status="PASS">
+        </test-method> <!-- testMaxPrice -->
+        <test-method signature="testUpdate()[pri:9, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:32:14 IST" name="testUpdate" finished-at="2023-11-11T17:32:34 IST" duration-ms="20226" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPermanentJobsPage -->
-        <test-method signature="testSupportWorker()[pri:10, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:07 IST" name="testSupportWorker" finished-at="2023-11-10T17:18:09 IST" duration-ms="2378" status="PASS">
+        </test-method> <!-- testUpdate -->
+        <test-method signature="testPricePage()[pri:10, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:32:34 IST" name="testPricePage" finished-at="2023-11-11T17:32:34 IST" duration-ms="146" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.gumtree.tests.CosyLivingRoomFurnitureTest.testPricePage(CosyLivingRoomFurnitureTest.java:144)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testSupportWorker -->
-        <test-method signature="testSupportWorkerPage()[pri:11, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:09 IST" name="testSupportWorkerPage" finished-at="2023-11-10T17:18:09 IST" duration-ms="10" status="PASS">
+        </test-method> <!-- testPricePage -->
+        <test-method signature="testCoffeeSideTable()[pri:11, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:32:34 IST" name="testCoffeeSideTable" finished-at="2023-11-11T17:32:55 IST" duration-ms="20196" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testSupportWorkerPage -->
-        <test-method signature="testApply()[pri:12, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:09 IST" name="testApply" finished-at="2023-11-10T17:18:09 IST" duration-ms="65" status="PASS">
+        </test-method> <!-- testCoffeeSideTable -->
+        <test-method signature="testCoffeeSideTablePage()[pri:12, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:32:55 IST" name="testCoffeeSideTablePage" finished-at="2023-11-11T17:32:55 IST" duration-ms="125" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.gumtree.tests.CosyLivingRoomFurnitureTest.testCoffeeSideTablePage(CosyLivingRoomFurnitureTest.java:168)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testApply -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gumtree.tests.LatestJobsTest@795509d9]" started-at="2023-11-10T17:18:09 IST" name="tearDown" finished-at="2023-11-10T17:18:09 IST" duration-ms="210" status="PASS">
+        </test-method> <!-- testCoffeeSideTablePage -->
+        <test-method signature="testViewProfile()[pri:13, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:32:55 IST" name="testViewProfile" finished-at="2023-11-11T17:33:06 IST" duration-ms="11433" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=119.0.6045.124)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40758bbc7d6bfb3cd457f380ca81b3a6, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.124, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\PIYUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63088}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63088/devtoo..., se:cdpVersion: 119.0.6045.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 40758bbc7d6bfb3cd457f380ca81b3a6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=119.0.6045.124)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40758bbc7d6bfb3cd457f380ca81b3a6, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.124, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\PIYUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63088}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63088/devtoo..., se:cdpVersion: 119.0.6045.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 40758bbc7d6bfb3cd457f380ca81b3a6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:318)
+at com.gumtree.genericPage.BaseClass.captureScreen(BaseClass.java:67)
+at com.gumtree.tests.CosyLivingRoomFurnitureTest.testViewProfile(CosyLivingRoomFurnitureTest.java:179)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewProfile -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gumtree.tests.CosyLivingRoomFurnitureTest@53045c6c]" started-at="2023-11-11T17:33:06 IST" name="tearDown" finished-at="2023-11-11T17:33:06 IST" duration-ms="6" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=119.0.6045.124)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40758bbc7d6bfb3cd457f380ca81b3a6, close {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.124, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\PIYUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63088}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63088/devtoo..., se:cdpVersion: 119.0.6045.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 40758bbc7d6bfb3cd457f380ca81b3a6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=119.0.6045.124)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40758bbc7d6bfb3cd457f380ca81b3a6, close {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.124, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\PIYUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63088}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63088/devtoo..., se:cdpVersion: 119.0.6045.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 40758bbc7d6bfb3cd457f380ca81b3a6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:419)
+at com.gumtree.tests.CosyLivingRoomFurnitureTest.tearDown(CosyLivingRoomFurnitureTest.java:187)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:644)
+at org.testng.TestRunner.afterRun(TestRunner.java:914)
+at org.testng.TestRunner.run(TestRunner.java:605)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.gumtree.tests.LatestJobsTest -->
+      </class> <!-- com.gumtree.tests.CosyLivingRoomFurnitureTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

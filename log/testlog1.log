@@ -481,3 +481,55 @@
 2023-11-10 17:18:07,026 [main] INFO gumtree - click on SupportWorker
 2023-11-10 17:18:09,416 [main] INFO gumtree - sucessfully navigate to Support Worker Page
 2023-11-10 17:18:09,424 [main] INFO gumtree - click on apply button
+2023-11-11 17:22:28,923 [main] INFO gumtree - open the chrome browser
+2023-11-11 17:22:37,024 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-11 17:22:37,134 [main] INFO gumtree - click on accept
+2023-11-11 17:22:37,444 [main] INFO gumtree - click on cosy Living Room Furniture
+2023-11-11 17:23:07,254 [main] INFO gumtree - sucessfully navigate to Dining And Living Room Furniture Page
+2023-11-11 17:23:07,263 [main] INFO gumtree - click on show 7 more
+2023-11-11 17:23:07,417 [main] INFO gumtree - click on coffee table
+2023-11-11 17:23:32,131 [main] INFO gumtree - enter the minimum price
+2023-11-11 17:23:32,312 [main] INFO gumtree - enter the maximum price
+2023-11-11 17:23:32,412 [main] INFO gumtree - click on update
+2023-11-11 17:23:35,697 [main] INFO gumtree - sucessfully navigate to price Page
+2023-11-11 17:23:35,702 [main] INFO gumtree - click on side table
+2023-11-11 17:23:57,106 [main] INFO gumtree - sucessfully navigate to Coffee Side Table Page
+2023-11-11 17:23:57,111 [main] INFO gumtree - click on view profile
+2023-11-11 17:25:58,440 [main] INFO gumtree - open the chrome browser
+2023-11-11 17:26:05,254 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-11 17:26:05,335 [main] INFO gumtree - click on accept
+2023-11-11 17:26:05,539 [main] INFO gumtree - click on cosy Living Room Furniture
+2023-11-11 17:27:01,788 [main] INFO gumtree - sucessfully navigate to Dining And Living Room Furniture Page
+2023-11-11 17:27:01,792 [main] INFO gumtree - click on show 7 more
+2023-11-11 17:27:01,920 [main] INFO gumtree - click on coffee table
+2023-11-11 17:27:27,201 [main] INFO gumtree - enter the minimum price
+2023-11-11 17:27:27,342 [main] INFO gumtree - enter the maximum price
+2023-11-11 17:27:27,457 [main] INFO gumtree - click on update
+2023-11-11 17:27:57,300 [main] INFO gumtree - sucessfully navigate to price Page
+2023-11-11 17:27:57,303 [main] INFO gumtree - click on side table
+2023-11-11 17:28:22,392 [main] INFO gumtree - sucessfully navigate to Coffee Side Table Page
+2023-11-11 17:28:22,396 [main] INFO gumtree - click on view profile
+2023-11-11 17:30:03,964 [main] INFO gumtree - open the chrome browser
+2023-11-11 17:30:09,783 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-11 17:30:09,859 [main] INFO gumtree - click on accept
+2023-11-11 17:30:11,153 [main] INFO gumtree - click on cosy Living Room Furniture
+2023-11-11 17:30:12,292 [main] INFO gumtree - sucessfully navigate to Dining And Living Room Furniture Page
+2023-11-11 17:30:12,297 [main] INFO gumtree - click on show 7 more
+2023-11-11 17:30:32,473 [main] INFO gumtree - click on coffee table
+2023-11-11 17:30:39,568 [main] INFO gumtree - enter the minimum price
+2023-11-11 17:30:39,590 [main] INFO gumtree - enter the maximum price
+2023-11-11 17:30:39,616 [main] INFO gumtree - click on update
+2023-11-11 17:30:39,646 [main] INFO gumtree - click on side table
+2023-11-11 17:30:39,693 [main] INFO gumtree - click on view profile
+2023-11-11 17:30:45,728 [main] INFO gumtree - open the chrome browser
+2023-11-11 17:30:52,073 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-11 17:30:52,125 [main] INFO gumtree - click on accept
+2023-11-11 17:30:52,329 [main] INFO gumtree - click on cosy Living Room Furniture
+2023-11-11 17:30:53,302 [main] INFO gumtree - sucessfully navigate to Dining And Living Room Furniture Page
+2023-11-11 17:30:53,308 [main] INFO gumtree - click on show 7 more
+2023-11-11 17:31:13,540 [main] INFO gumtree - click on coffee table
+2023-11-11 17:31:33,984 [main] INFO gumtree - enter the minimum price
+2023-11-11 17:31:54,206 [main] INFO gumtree - enter the maximum price
+2023-11-11 17:32:14,475 [main] INFO gumtree - click on update
+2023-11-11 17:32:34,854 [main] INFO gumtree - click on side table
+2023-11-11 17:32:55,185 [main] INFO gumtree - click on view profile
