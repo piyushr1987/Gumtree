@@ -533,3 +533,18 @@
 2023-11-11 17:32:14,475 - gumtree -INFO - click on update
 2023-11-11 17:32:34,854 - gumtree -INFO - click on side table
 2023-11-11 17:32:55,185 - gumtree -INFO - click on view profile
+2023-11-13 16:55:32,886 - gumtree -INFO - open the chrome browser
+2023-11-13 16:55:41,004 - gumtree -INFO - navigate to www.gumtree.com
+2023-11-13 16:55:41,087 - gumtree -INFO - click on accept
+2023-11-13 16:55:41,431 - gumtree -INFO - click on Gaming And Consoles
+2023-11-13 16:56:13,648 - gumtree -INFO - sucessfully navigate to Gaming And Consoles Page
+2023-11-13 16:56:13,651 - gumtree -INFO - click on games
+2023-11-13 16:56:42,681 - gumtree -INFO - sucessfully navigate to Games Page
+2023-11-13 16:56:42,690 - gumtree -INFO - enter the minimum price
+2023-11-13 16:56:42,902 - gumtree -INFO - enter the maximum price
+2023-11-13 16:56:43,290 - gumtree -INFO - click on update
+2023-11-13 16:57:07,963 - gumtree -INFO - sucessfully navigate to Price Page
+2023-11-13 16:57:07,971 - gumtree -INFO - click on Pc Gaming
+2023-11-13 16:57:33,188 - gumtree -INFO - sucessfully navigate to Pc Gaming Page
+2023-11-13 16:57:33,234 - gumtree -INFO - expected and actual user name is matched
+2023-11-13 16:57:33,238 - gumtree -INFO - click on Favourite
