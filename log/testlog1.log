@@ -548,3 +548,16 @@
 2023-11-13 16:57:33,188 [main] INFO gumtree - sucessfully navigate to Pc Gaming Page
 2023-11-13 16:57:33,234 [main] INFO gumtree - expected and actual user name is matched
 2023-11-13 16:57:33,238 [main] INFO gumtree - click on Favourite
+2023-11-14 22:13:07,126 [main] INFO gumtree - open the chrome browser
+2023-11-14 22:13:14,271 [main] INFO gumtree - navigate to www.gumtree.com
+2023-11-14 22:13:14,384 [main] INFO gumtree - click on accept
+2023-11-14 22:13:14,637 [main] INFO gumtree - click on Affordable Run Arounds
+2023-11-14 22:13:48,298 [main] INFO gumtree - sucessfully navigate to Affordable Cars Page
+2023-11-14 22:13:48,299 [main] INFO gumtree - click on audi
+2023-11-14 22:14:18,641 [main] INFO gumtree - sucessfully navigate to Audi Page
+2023-11-14 22:14:18,659 [main] INFO gumtree - click on year
+2023-11-14 22:14:44,270 [main] INFO gumtree - sucessfully navigate to year Page
+2023-11-14 22:14:44,278 [main] INFO gumtree - click on Audi BLK Edition
+2023-11-14 22:15:09,117 [main] INFO gumtree - sucessfully navigate to Audi BLK Edition Page
+2023-11-14 22:15:09,167 [main] INFO gumtree - actual and expected message is matched
+2023-11-14 22:15:09,167 [main] INFO gumtree - click on Send Message
