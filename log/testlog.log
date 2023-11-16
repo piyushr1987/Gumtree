@@ -561,3 +561,18 @@
 2023-11-14 22:15:09,117 - gumtree -INFO - sucessfully navigate to Audi BLK Edition Page
 2023-11-14 22:15:09,167 - gumtree -INFO - actual and expected message is matched
 2023-11-14 22:15:09,167 - gumtree -INFO - click on Send Message
+2023-11-16 18:06:04,255 - gumtree -INFO - open the chrome browser
+2023-11-16 18:06:10,786 - gumtree -INFO - navigate to www.gumtree.com
+2023-11-16 18:06:10,861 - gumtree -INFO - click on accept
+2023-11-16 18:06:11,075 - gumtree -INFO - click on Cornwall City
+2023-11-16 18:06:42,671 - gumtree -INFO - sucessfully navigate to Cornwall City Page
+2023-11-16 18:06:42,677 - gumtree -INFO - click on Motor
+2023-11-16 18:06:45,894 - gumtree -INFO - sucessfully navigate to motor Page
+2023-11-16 18:06:45,897 - gumtree -INFO - click on cars
+2023-11-16 18:06:48,277 - gumtree -INFO - sucessfully navigate to car Page
+2023-11-16 18:06:48,277 - gumtree -INFO - click on audi
+2023-11-16 18:06:50,909 - gumtree -INFO - sucessfully navigate to Audi Car Page
+2023-11-16 18:06:50,912 - gumtree -INFO - click on blue audi
+2023-11-16 18:07:07,288 - gumtree -INFO - sucessfully navigate to Blue Audi Car Page
+2023-11-16 18:07:07,291 - gumtree -INFO - click on blue audi q2
+2023-11-16 18:07:16,353 - gumtree -INFO - click on Send Message
