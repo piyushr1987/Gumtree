@@ -1,65 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="14" passed="13" failed="1" skipped="0">
+<testng-results ignored="0" total="12" passed="11" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-16T18:06:04 IST" name="Default suite" finished-at="2023-11-16T18:07:20 IST" duration-ms="76255">
+  <suite started-at="2023-11-19T17:30:29 IST" name="Default suite" finished-at="2023-11-19T17:34:30 IST" duration-ms="241509">
     <groups>
     </groups>
-    <test started-at="2023-11-16T18:06:04 IST" name="Default test" finished-at="2023-11-16T18:07:20 IST" duration-ms="76255">
-      <class name="com.gumtree.tests.Cornwall_CityTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:04 IST" name="setUp" finished-at="2023-11-16T18:06:10 IST" duration-ms="6704" status="PASS">
+    <test started-at="2023-11-19T17:30:29 IST" name="Default test" finished-at="2023-11-19T17:34:30 IST" duration-ms="241509">
+      <class name="com.gumtree.tests.Cardiff_CityTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:30:29 IST" name="setUp" finished-at="2023-11-19T17:30:36 IST" duration-ms="6998" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testAccept()[pri:1, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:10 IST" name="testAccept" finished-at="2023-11-16T18:06:11 IST" duration-ms="204" status="PASS">
+        <test-method signature="testAccept()[pri:1, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:30:36 IST" name="testAccept" finished-at="2023-11-19T17:30:36 IST" duration-ms="215" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAccept -->
-        <test-method signature="testCornwallCity()[pri:2, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:11 IST" name="testCornwallCity" finished-at="2023-11-16T18:06:42 IST" duration-ms="31545" status="PASS">
+        <test-method signature="testCardiffCity()[pri:2, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:30:36 IST" name="testCardiffCity" finished-at="2023-11-19T17:31:48 IST" duration-ms="72051" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCornwallCity -->
-        <test-method signature="testCornwallCityPage()[pri:3, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:42 IST" name="testCornwallCityPage" finished-at="2023-11-16T18:06:42 IST" duration-ms="58" status="PASS">
+        </test-method> <!-- testCardiffCity -->
+        <test-method signature="testCardiffCityPage()[pri:3, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:31:48 IST" name="testCardiffCityPage" finished-at="2023-11-19T17:31:48 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCornwallCityPage -->
-        <test-method signature="testMotor()[pri:4, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:42 IST" name="testMotor" finished-at="2023-11-16T18:06:45 IST" duration-ms="3197" status="PASS">
+        </test-method> <!-- testCardiffCityPage -->
+        <test-method signature="testBritanniaSouthBank()[pri:4, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:31:48 IST" name="testBritanniaSouthBank" finished-at="2023-11-19T17:32:09 IST" duration-ms="20336" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMotor -->
-        <test-method signature="testMotorPage()[pri:5, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:45 IST" name="testMotorPage" finished-at="2023-11-16T18:06:45 IST" duration-ms="14" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testMotorPage -->
-        <test-method signature="testCars()[pri:6, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:45 IST" name="testCars" finished-at="2023-11-16T18:06:48 IST" duration-ms="2362" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCars -->
-        <test-method signature="testCarsPage()[pri:7, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:48 IST" name="testCarsPage" finished-at="2023-11-16T18:06:48 IST" duration-ms="16" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCarsPage -->
-        <test-method signature="testAudi()[pri:8, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:48 IST" name="testAudi" finished-at="2023-11-16T18:06:50 IST" duration-ms="2602" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAudi -->
-        <test-method signature="testAudiCarPage()[pri:9, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:50 IST" name="testAudiCarPage" finished-at="2023-11-16T18:06:50 IST" duration-ms="27" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAudiCarPage -->
-        <test-method signature="testBlueAudi()[pri:10, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:06:50 IST" name="testBlueAudi" finished-at="2023-11-16T18:07:07 IST" duration-ms="16369" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testBlueAudi -->
-        <test-method signature="testBlueAudiCarPage()[pri:11, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:07:07 IST" name="testBlueAudiCarPage" finished-at="2023-11-16T18:07:07 IST" duration-ms="7" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testBlueAudiCarPage -->
-        <test-method signature="testBlueAudiQ2()[pri:12, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:07:07 IST" name="testBlueAudiQ2" finished-at="2023-11-16T18:07:16 IST" duration-ms="8788" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testBlueAudiQ2 -->
-        <test-method signature="testBlueAudiQ2CarPage()[pri:13, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:07:16 IST" name="testBlueAudiQ2CarPage" finished-at="2023-11-16T18:07:16 IST" duration-ms="268" status="FAIL">
+        </test-method> <!-- testBritanniaSouthBank -->
+        <test-method signature="testBritanniaSouthBankPage()[pri:5, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:32:09 IST" name="testBritanniaSouthBankPage" finished-at="2023-11-19T17:32:09 IST" duration-ms="144" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -70,7 +38,7 @@ at org.testng.Assert.fail(Assert.java:110)
 at org.testng.Assert.failNotEquals(Assert.java:1577)
 at org.testng.Assert.assertTrue(Assert.java:56)
 at org.testng.Assert.assertTrue(Assert.java:66)
-at com.gumtree.tests.Cornwall_CityTest.testBlueAudiQ2CarPage(Cornwall_CityTest.java:180)
+at com.gumtree.tests.Cardiff_CityTest.testBritanniaSouthBankPage(Cardiff_CityTest.java:84)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -104,16 +72,40 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testBlueAudiQ2CarPage -->
-        <test-method signature="testSendMessage()[pri:14, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:07:16 IST" name="testSendMessage" finished-at="2023-11-16T18:07:20 IST" duration-ms="3830" status="PASS">
+        </test-method> <!-- testBritanniaSouthBankPage -->
+        <test-method signature="testViewRooms()[pri:6, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:32:09 IST" name="testViewRooms" finished-at="2023-11-19T17:32:29 IST" duration-ms="20251" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testSendMessage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gumtree.tests.Cornwall_CityTest@5149d738]" started-at="2023-11-16T18:07:20 IST" name="tearDown" finished-at="2023-11-16T18:07:20 IST" duration-ms="155" status="PASS">
+        </test-method> <!-- testViewRooms -->
+        <test-method signature="testStudio()[pri:7, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:32:29 IST" name="testStudio" finished-at="2023-11-19T17:32:49 IST" duration-ms="20172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStudio -->
+        <test-method signature="testEntirePlace()[pri:8, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:32:49 IST" name="testEntirePlace" finished-at="2023-11-19T17:33:09 IST" duration-ms="20156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEntirePlace -->
+        <test-method signature="testPrivateBathroom()[pri:9, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:33:09 IST" name="testPrivateBathroom" finished-at="2023-11-19T17:33:30 IST" duration-ms="20250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrivateBathroom -->
+        <test-method signature="testPrivateKitchen()[pri:10, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:33:30 IST" name="testPrivateKitchen" finished-at="2023-11-19T17:33:50 IST" duration-ms="20194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrivateKitchen -->
+        <test-method signature="testBedrooms()[pri:11, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:33:50 IST" name="testBedrooms" finished-at="2023-11-19T17:34:10 IST" duration-ms="20160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBedrooms -->
+        <test-method signature="testEnquiry()[pri:12, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:34:10 IST" name="testEnquiry" finished-at="2023-11-19T17:34:30 IST" duration-ms="20319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnquiry -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gumtree.tests.Cardiff_CityTest@795509d9]" started-at="2023-11-19T17:34:30 IST" name="tearDown" finished-at="2023-11-19T17:34:30 IST" duration-ms="174" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.gumtree.tests.Cornwall_CityTest -->
+      </class> <!-- com.gumtree.tests.Cardiff_CityTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
